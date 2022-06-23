@@ -1,6 +1,6 @@
 import axios from "@/utils/axios";
 
-export const test = () => {
+export const demo = () => {
   return axios({
     method: "get",
     url: "",
